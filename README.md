@@ -120,15 +120,6 @@ app/src/main/
 └── AndroidManifest.xml           # Configurações da app
 ```
 
-## 🎯 Próximas Melhorias
-
-- [ ] Implementar paginação para mais resultados
-- [ ] Adicionar filtros de pesquisa (categoria, data, etc.)
-- [ ] Melhorar o design com Material Design Components
-- [ ] Adicionar funcionalidade de favoritos
-- [ ] Implementar pesquisa offline com banco de dados
-- [ ] Adicionar testes unitários e de integração
-
 ## 👨‍💻 Autor
 
 Desenvolvido por **Rafael Alves** durante o curso Android Basics Nanodegree da Udacity.
